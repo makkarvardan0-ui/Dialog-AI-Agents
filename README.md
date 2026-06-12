@@ -162,7 +162,7 @@ Finance Chatbot
 
 ## 👨‍💻 Author
 
-**Aditya Chaudhry**
+**vardan makkar**
 
 MBA Finance | Financial Analytics | AI & Finance Enthusiast
 
